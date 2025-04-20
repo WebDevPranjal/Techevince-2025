@@ -27,7 +27,7 @@ jobs:
           if pm2 describe backend > /dev/null 2>&1; then
             pm2 restart backend --update-env
           else
-            cd ~/Techevince-2024/techevince-backend/
+            cd ~/Techevince-2025/techevince-backend/
             pm2 start src/index.js --name backend
           fi
 
