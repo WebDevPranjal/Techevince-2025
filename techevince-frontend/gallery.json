@@ -1,0 +1,38 @@
+[
+  {
+    "link":
+      "https://images.unsplash.com/photo-1541963463532-d68292c34b19?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Ym9va3xlbnwwfHwwfHw%3D&w=1000&q=80",
+    "useCase": "carousel",
+    "alt": "img"
+  },
+  {
+    "link":
+      "https://thumbs.dreamstime.com/b/environment-earth-day-hands-trees-growing-seedlings-bokeh-green-background-female-hand-holding-tree-nature-field-gra-130247647.jpg",
+    "useCase": "carousel",
+    "alt": "img"
+  },
+  {
+    "link":
+      "https://cdn.pixabay.com/photo/2015/10/30/20/13/sunrise-1014712__340.jpg",
+    "useCase": "carousel",
+    "alt": "img"
+  },
+  {
+    "link":
+      "https://thumbs.dreamstime.com/b/beautiful-rain-forest-ang-ka-nature-trail-doi-inthanon-national-park-thailand-36703721.jpg",
+    "useCase": "carousel",
+    "alt": "img"
+  },
+  {
+    "link":
+      "https://gratisography.com/wp-content/uploads/2023/02/gratisography-colorful-kittenfree-stock-photo-800x525.jpg",
+    "useCase": "carousel",
+    "alt": "img"
+  },
+  {
+    "link":
+      "https://images.pexels.com/photos/255419/pexels-photo-255419.jpeg?cs=srgb&dl=pexels-pixabay-255419.jpg&fm=jpg",
+    "useCase": "carousel",
+    "alt": "img"
+  }
+]

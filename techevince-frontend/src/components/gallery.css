@@ -1,0 +1,13 @@
+.slick-center {
+  color: #e67e22;
+  transform: scale(1.2);
+  transition: all 600ms ease;
+}
+
+.center {
+  transition: all 3000ms ease;
+}
+
+.slick-list {
+  padding: 40px !important;
+}
