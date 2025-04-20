@@ -19,7 +19,7 @@ jobs:
           node-version: 22
 
       - name: Install backend dependencies
-        working-directory: techevience-backend
+        working-directory: techevince-backend
         run: npm install
 
       - name: Restart Backend with PM2 (Only if Running)
