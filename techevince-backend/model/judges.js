@@ -5,6 +5,7 @@ const ObjectId = Schema.Types.ObjectId;
 const JudgeSchema = new Schema({
   name: String,
   designation: String,
+  
   company: String,
   image: String,
   socials: [{
